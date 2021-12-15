@@ -1,9 +1,3 @@
-!pip install descartes
-!pip install geopandas
-!pip install matplotlib
-!pip install numpy
-!pip install pandas
-
 import pandas as pd
 import numpy as np
 import geopandas as gpd
